@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello 🤠
+
+- 🌱 I am currently studying computer science at the University of Leicester as well as backend development on [Boot.dev!](https://www.boot.dev/)
+- 💫 Looking to make more interesting and challenging projects in order to improve my skillset
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/f0e101b8-bc73-4483-803a-ea030710a9d5/thumbnail" >
+</p>
 
 <!--
 **Eb1su/Eb1su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
